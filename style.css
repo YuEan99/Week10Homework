@@ -1,0 +1,73 @@
+.pure-u-1-3 {
+    margin-top: 30px;
+    margin-bottom: 150px;
+    height: 30vw;
+
+}
+
+.pure-u-1-3 p {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: 300;
+    font-size: medium;
+    color: grey;
+}
+
+.pure-u-1-3 img {
+    width: 3vw;
+    height: 3vw;
+    margin-left: 10px;
+}
+
+.pure-u-1-3 h2 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#scatter_plot {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#para {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 100px;
+}
+
+#choropleth_map {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#title {
+    font-family: 'Open Sans';
+    color: #2590c8;
+    text-align: center;
+}
+
+
+
+.usa{
+    font-weight: 700;
+    color: black;
+}
+
+.bz{
+    font-weight: 700;
+    color: black;
+}
+
+.con{
+    font-weight: 700;
+    color: black;
+}
+
+.dea{
+    font-weight: 700;
+    color: black;
+}
+
+h2 {
+    font-family: 'Open Sans';
+}
